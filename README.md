@@ -1,4 +1,4 @@
-# bootcamp_project
+# Bootcamp_project
 
 Data science bootcamp with 'adtoy'
 
@@ -8,6 +8,9 @@ We learn 10 sprint in 4 months
 - SQL
 - R programing 
 - Data transformation
-- Data visualzation
-- Machine learning
-- Python
+- Data visualization
+- Statistics
+- Intro to classical Machine learning
+- Intro to Python
+- Essential Python for Data analyst
+- Dashboard
