@@ -4,7 +4,7 @@ Data science bootcamp with 'adtoy'
 
 We learn 10 sprint in 4 months
 
-- Spreasdsheet
+- Spreadsheet
 - SQL
 - R programing 
 - Data transformation
